@@ -1,0 +1,6 @@
+/dist/
+/Dados/
+/Embedded.ps1
+/kit-simulado-*/
+/preview*.png
+*.log
